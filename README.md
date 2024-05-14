@@ -1,1 +1,1 @@
-# -skywalking-booster-ui
+# skywalking-booster-ui
